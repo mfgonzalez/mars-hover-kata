@@ -1,0 +1,8 @@
+{
+    "Marte": {
+      "name": "Mars",
+      "width": 6,
+      "hight": 6,
+      "href": "http://localhost:3000/territory/mars"
+    }
+  }
